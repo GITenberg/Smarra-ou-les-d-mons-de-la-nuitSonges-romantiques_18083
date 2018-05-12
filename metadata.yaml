@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_Nodier
     - http://en.wikipedia.org/wiki/Charles_Nodier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18083#Smarra-ou-les-d-mons-de-la-nuitSonges-romantiques
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-03-30'
 gutenberg_type: Text
